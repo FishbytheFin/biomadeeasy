@@ -1,0 +1,15 @@
+The purpose of the 10 minute room temperature incubation is to: Allow E. coli enough time to transcribe and translate the plasmid 
+The duration of the first ice water incubation should be : 10 minutes 
+A bacteria cell directly taking DNA from the environment is: Transformation 
+The role of arabinose is to: Activate the pGLO operon 
+The role of transformation solution is to: Create gaps in the plasma membrane of E. coli 
+The purpose of the heat shock is to: Create a vacuum that will draw the plasmid from the environment 
+The duration of the heat shock step should be: 50 seconds 
+Genetic material transferring from one bacterium to another bacterium is called: Conjugation 
+Stack your plates in the following manner in the incubator:: Upside down, four plates at a time 
+The role of ampicillin is to: Destroy E. coli 
+Which of the following order of steps is correct?: 1) Insert plasmid. 2) Ice water incubation. 3) Heat shock. 4) Ice water incubation. 
+Which of the following is one µl?: .000001 L 
+Using a virus to carry genetic material from one bacterium to another is called: Transduction 
+How often do you use a new sterile loop?: Every step requires a new loop 
+Sticky ends are: Two sections of single-stranded DNA that pair with each other 
