@@ -20,7 +20,7 @@ with open(HTMLFILENAME, "r") as f:
             for t in j:
                 if "(correct answer)" in t:
                     # adds the answer and the question to a var for later
-                    outputText += lastQuestion + ": " + t.split("(")[0] + "\n"
+                    outputText += lastQuestion + ": " + t.split("(")[0] + "\n\n"
 
 with open("output.txt", "w") as o:
     o.write(outputText)
